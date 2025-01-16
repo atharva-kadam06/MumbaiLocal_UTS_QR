@@ -4,7 +4,7 @@
 > **Abstract** : An online website which we will be providing QR codes of Mumbai Local Railway station. A Search Bar is include will only search station name.sdfsdf
 
 ### Website
-- [QR Code for Mumbai Local Railway Station](https://moinmn.github.io/MumbaiLocal-QR)
+- [QR Code for Mumbai Local Railway Station](https://mumbailocalqr.netlify.app/)
 
 ### References
 - [WizBlogger](https://wizblogger.com/uts-qr-codes-for-mumbai-stations/)
